@@ -21,5 +21,5 @@
 📌 Explanation of what the project does.  
 
 ## 📫 Contact Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/RozaKhairi](https://github.com/RozaKhairi)  
+- **LinkedIn:** [https://www.linkedin.com/in/rosa-kheiri-11100964/)  
+- **GitHub:** [github.com/RozaKhairi](https://github.com/rosa-developer)  
